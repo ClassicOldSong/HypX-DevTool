@@ -1,4 +1,4 @@
 # HypX-DevTool
-HTML5 development tools for HypX
+Development tools for HypX using HTML5
 
 ##License: [MIT](http://cos.mit-license.org/)
